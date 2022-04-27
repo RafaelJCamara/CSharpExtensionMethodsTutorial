@@ -1,0 +1,12 @@
+/home/rafael/Documents/Microsoft/Books/Projects/Training/Training/ExtensionMethods/bin/Debug/ExtensionMethods.exe
+/home/rafael/Documents/Microsoft/Books/Projects/Training/Training/ExtensionMethods/bin/Debug/ExtensionMethods.pdb
+/home/rafael/Documents/Microsoft/Books/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.csprojAssemblyReference.cache
+/home/rafael/Documents/Microsoft/Books/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/Microsoft/Books/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.exe
+/home/rafael/Documents/Microsoft/Books/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.pdb
+/home/rafael/Documents/Microsoft/Projects/Training/Training/ExtensionMethods/bin/Debug/ExtensionMethods.exe
+/home/rafael/Documents/Microsoft/Projects/Training/Training/ExtensionMethods/bin/Debug/ExtensionMethods.pdb
+/home/rafael/Documents/Microsoft/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.csprojAssemblyReference.cache
+/home/rafael/Documents/Microsoft/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/Microsoft/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.exe
+/home/rafael/Documents/Microsoft/Projects/Training/Training/ExtensionMethods/obj/Debug/ExtensionMethods.pdb
